@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+	<packaging>pom</packaging>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.nhubaole</groupId>
+	<artifactId>smart-rent</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>smart-rent</name>
+	<modules>
+		<module>common</module>
+		<module>greeting-service</module>
+	</modules>
+</project>
